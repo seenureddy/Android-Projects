@@ -2,32 +2,44 @@
 <items version="2" >
 
     <item
-        jar="/home/seenu/Agiliq/Android/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        is-multidex="false"
+        jar="/home/seenu/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/794fc6dc933ffafac6f3d884bb70cf20/jars/classes.jar"
         jumboMode="false"
-        revision="21.1.2"
-        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="/home/seenu/AndroidstudioProjects/Swipeable_Layout/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-796001af2234305b5423a14a5b95a7c9b5bc350d.jar" />
-    </item>
-    <item
-        jar="/home/seenu/AndroidstudioProjects/Swipeable_Layout/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
+        min-sdk-version="8"
+        optimize="true"
+        revision="26.0.2"
         sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="/home/seenu/AndroidstudioProjects/Swipeable_Layout/app/build/intermediates/pre-dexed/debug/classes-e26583551e82ba621f8c6c57b80e422843f478ee.jar" />
+        <dex dex="/home/seenu/yank/github-projects/android-projects/Swipeable_Layout/app/build/intermediates/transforms/preDex/release/2.jar" />
     </item>
     <item
-        jar="/home/seenu/AndroidstudioProjects/Swipeable_Layout/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        is-multidex="false"
+        jar="/home/seenu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-21.0.3.aar/62dc51fc1f3e97e8edceb3704bfa5a73/jars/classes.jar"
         jumboMode="false"
-        revision="21.1.2"
-        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="/home/seenu/AndroidstudioProjects/Swipeable_Layout/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-bb440a90c34a89052c147eb3b86559306dfb697c.jar" />
-    </item>
-    <item
-        jar="/home/seenu/AndroidstudioProjects/Swipeable_Layout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
+        min-sdk-version="8"
+        optimize="true"
+        revision="26.0.2"
         sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="/home/seenu/AndroidstudioProjects/Swipeable_Layout/app/build/intermediates/pre-dexed/debug/classes-9a3a6a643e0ca2c0b0606b51f96fb330ab62f350.jar" />
+        <dex dex="/home/seenu/yank/github-projects/android-projects/Swipeable_Layout/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/seenu/.gradle/caches/transforms-1/files-1.1/support-v4-21.0.3.aar/794fc6dc933ffafac6f3d884bb70cf20/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        min-sdk-version="8"
+        optimize="true"
+        revision="26.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/seenu/yank/github-projects/android-projects/Swipeable_Layout/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/seenu/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        min-sdk-version="8"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/seenu/yank/github-projects/android-projects/Swipeable_Layout/app/build/intermediates/transforms/preDex/release/4.jar" />
     </item>
 
 </items>
