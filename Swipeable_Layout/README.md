@@ -1,1 +1,1 @@
-![Travis-ci](https://travis-ci.org/seenureddy/android-projects)
+![Travis-ci](https://travis-ci.org/seenureddy/android-projects.svg?branch=master)
